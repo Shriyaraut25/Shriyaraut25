@@ -1,3 +1,4 @@
+![logo](https://github.com/Shriyaraut25/Shriyaraut25/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shriya Raut</h1>
 <h3 align="center">I'm Undergraduate AIML Student from India</h3>
 
