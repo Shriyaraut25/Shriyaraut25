@@ -1,5 +1,5 @@
 <a href="https://github.com/Shriyaraut25/">
-  <img align="center"    src="https://github.com/Shriyaraut25/Shriyaraut25/blob/main/SuhasRautBanner.gif?raw=true" />
+  <img align="center"    src="https://github.com/Shriyaraut25/Shriyaraut25/blob/main/Poster.gif?raw=true" />
 </a>
 <h1 align="center">Hi 👋, I'm Shriya Raut</h1>
 <h3 align="center">I'm Undergraduate AIML Student from India</h3>
