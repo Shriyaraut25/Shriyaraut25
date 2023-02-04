@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shriya-raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriya-raut" height="30" width="40" /></a>
  <a href="https://www.instagram.com/shriyaraut25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shriyaraut24" height="30" width="40" /></a>
-
+  <a href="https://twitter.com/shriya_raut" target="blank"><img align="center" src="https://devicons.railway.app/i/twitter.svg" alt="shriyaraut24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Profiles:</h3>
@@ -26,7 +26,6 @@
 <a href="https://www.hackerrank.com/frozen25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="frozen25" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/frozen25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="frozen25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frozen25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frozen25" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/frozen25" target="blank"><img align="center" src="" alt="frozen25" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/frozen25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="frozen25" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shriyaraut" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="shriyaraut" height="30" width="80" /></a>
 <a href="https://devpost.com/frozen25?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://q9k6x7m8.stackpathcdn.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="shriyaraut24" height="30" width="100" /></a>
